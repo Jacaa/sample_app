@@ -14,3 +14,4 @@ is available jointly under the MIT License and the Beerware License.
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
+
